@@ -474,13 +474,5 @@ Open source for educational purposes. Feel free to study, modify, and deploy wit
 
 ---
 
-**Ready to explore serverless hotel booking? Clone, configure, and deploy today!**
-
-**Version**: 1.0.0 | **Status**: Educational Project | **Last Updated**: January 2026
-
-Built with ☁️ by Roee using AWS Cloud Services
-
----
-
 > 📚 **Educational Purpose**
 This project was created as part of a cloud computing course to demonstrate serverless architecture and AWS services integration.
