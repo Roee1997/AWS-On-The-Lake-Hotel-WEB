@@ -24,6 +24,10 @@ A modern, full-stack hotel booking web application built entirely on AWS cloud i
 ![Admin Add Room](screenshots/5-admin-add-room.jpeg)
 *Admin interface for adding new rooms with image upload to S3 and validation*
 
+### Admin Dashboard - Manage Bookings
+![Admin Manage Bookings](screenshots/6-admin-manage-bookings.jpeg)
+*Admin interface for managing all bookings with approve/deny functionality*
+
 ## Table of Contents
 - [Key Features](#key-features)
 - [Technology Stack](#technology-stack)
@@ -491,30 +495,6 @@ Open source for educational purposes. Feel free to study, modify, and deploy wit
 - Authentication and authorization
 - NoSQL database design
 - Cloud security best practices
-
----
-
-## Screenshots
-
-### Home Page
-![Home Page](screenshots/1-home-page.jpeg)
-*Main landing page featuring hero carousel, room highlights, and hotel overview*
-
-### Rooms Overview
-![Rooms Overview](screenshots/2-rooms-overview.jpeg)
-*Browse available rooms with advanced filtering by dates and guest count*
-
-### Room Details & Booking
-![Room Details](screenshots/3-room-details.jpeg)
-*Detailed room information with pricing, amenities, and seamless booking flow*
-
-### Admin Dashboard - Manage Rooms
-![Admin Manage Rooms](screenshots/4-admin-manage-rooms.jpeg)
-*Comprehensive admin interface for managing all hotel rooms with full CRUD operations*
-
-### Admin Dashboard - Add New Room
-![Admin Add Room](screenshots/5-admin-add-room.jpeg)
-*Admin interface for adding new rooms with image upload to S3 and validation*
 
 ---
 
